@@ -1,2 +1,2 @@
 # stock-csrf
-a express middleware for csrf
+An express middleware for csrf
